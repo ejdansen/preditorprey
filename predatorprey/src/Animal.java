@@ -7,7 +7,7 @@ public abstract class Animal {
 	private int energy;
 	
 	public Animal() {
-		energy = 10;
+		energy = 100;
 	}
 	
 	public int getEnergy() {
